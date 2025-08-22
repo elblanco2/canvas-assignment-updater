@@ -1,0 +1,88 @@
+{
+  "assignments": [
+    {
+      "id": "assignment_1",
+      "name": "Barcode Assignment",
+      "due_at": "2025-01-17T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_2",
+      "name": "Twofold shape design",
+      "due_at": "2025-02-13T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_3",
+      "name": "Zentangle + Canceling = Dynamic Designs",
+      "due_at": "2025-02-18T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_4",
+      "name": "Overlapping Figures",
+      "due_at": "2025-02-20T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_5",
+      "name": "Leaf as Shape",
+      "due_at": "2025-02-25T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_6",
+      "name": "Objects into Achromatic Planes",
+      "due_at": "2025-03-04T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_7",
+      "name": "Architecture Abstraction",
+      "due_at": "2025-03-18T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_8",
+      "name": "Bauhaus Maze",
+      "due_at": "2025-03-18T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_9",
+      "name": "Retinal Studies",
+      "due_at": "2025-03-25T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_10",
+      "name": "Parts of the Puzzle",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_11",
+      "name": "Paper Texture Study",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_12",
+      "name": "Letters as Texture",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_13",
+      "name": "Jstor Database Project",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_14",
+      "name": "Design Portfolio Project",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    }
+  ]
+}

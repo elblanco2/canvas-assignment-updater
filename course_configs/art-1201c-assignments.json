@@ -1,0 +1,94 @@
+{
+  "assignments": [
+    {
+      "id": "assignment_1",
+      "name": "Barcode Assignment",
+      "due_at": "2025-01-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_2",
+      "name": "Four Lines Three Times",
+      "due_at": "2025-02-06T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_3",
+      "name": "Figure-Ground Assignment",
+      "due_at": "2025-02-13T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_4",
+      "name": "Tessellation Assignment",
+      "due_at": "2025-02-13T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_5",
+      "name": "Solids",
+      "due_at": "2025-02-18T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_6",
+      "name": "Lines and Shape Problems",
+      "due_at": "2025-02-25T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_7",
+      "name": "Concealing and Revealing",
+      "due_at": "2025-03-25T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_8",
+      "name": "Architecture Abstraction",
+      "due_at": "2025-04-08T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_9",
+      "name": "Bauhaus Maze",
+      "due_at": "2025-04-08T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_10",
+      "name": "Balancing Act",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_11",
+      "name": "Retinal Studies",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_12",
+      "name": "Objects into Achromatic Planes",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_13",
+      "name": "JSTOR Project",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_14",
+      "name": "Metamorphosis",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_15",
+      "name": "Design Portfolio Project",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    }
+  ]
+}

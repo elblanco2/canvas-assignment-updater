@@ -1,0 +1,88 @@
+{
+  "assignments": [
+    {
+      "id": "assignment_1",
+      "name": "The Big Challenge",
+      "due_at": "2025-01-20T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_2",
+      "name": "Value House Drawing Assignment",
+      "due_at": "2025-01-24T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_3",
+      "name": "Viewfinder",
+      "due_at": "2025-02-12T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_4",
+      "name": "The Mondrian Line Assignment",
+      "due_at": "2025-02-19T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_5",
+      "name": "Light and Shadow with Charcoal Drawing",
+      "due_at": "2025-03-12T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_6",
+      "name": "All over Drawing",
+      "due_at": "2025-03-12T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_7",
+      "name": "Out of Focus Monet Drawing",
+      "due_at": "2025-03-19T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_8",
+      "name": "Proportion",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_9",
+      "name": "Ten Flag Drawings",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_10",
+      "name": "Frottage Drawing",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_11",
+      "name": "Ellipses Drawing",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_12",
+      "name": "Straight-line Drawing",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_13",
+      "name": "Searching Line Drawing",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_14",
+      "name": "Perspective",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    }
+  ]
+}

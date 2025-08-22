@@ -1,0 +1,14 @@
+{
+  "assignments": [
+    {
+      "name": "Layers quiz",
+      "due_at": "2025-10-31T03:59:59Z",
+      "points_possible": 10.0
+    },
+    {
+      "name": "Student show",
+      "due_at": "2025-02-25T23:59:59Z",
+      "points_possible": 5.0
+    }
+  ]
+}

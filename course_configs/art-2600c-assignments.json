@@ -1,0 +1,58 @@
+{
+  "assignments": [
+    {
+      "id": "assignment_1",
+      "name": "Digital Collage",
+      "due_at": "2025-02-05T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_2",
+      "name": "Digital Color Studies",
+      "due_at": "2025-02-12T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_3",
+      "name": "JSTOR Art Research Project (10 Artists)",
+      "due_at": "2025-02-26T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_4",
+      "name": "Digital Self Portrait",
+      "due_at": "2025-02-26T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_5",
+      "name": "Terry Gilliam Style Animation",
+      "due_at": "2025-03-12T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_6",
+      "name": "Tessellation Project",
+      "due_at": "2025-03-19T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_7",
+      "name": "Architectural Font",
+      "due_at": "2025-03-26T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_8",
+      "name": "Vector Design",
+      "due_at": "2025-04-02T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_9",
+      "name": "Design Portfolio Project",
+      "due_at": "2025-04-09T23:59:59Z",
+      "points_possible": 10
+    }
+  ]
+}

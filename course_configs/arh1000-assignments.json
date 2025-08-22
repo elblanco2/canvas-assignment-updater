@@ -1,0 +1,94 @@
+{
+  "assignments": [
+    {
+      "name": "Syllabus Quiz (Graded)",
+      "due_at": "2025-08-27T23:59:00-04:00",
+      "points_possible": 10
+    },
+    {
+      "name": "Interactive Assignment (IA-1) Introduction Discussion",
+      "due_at": "2025-09-03T23:59:00-04:00",
+      "points_possible": 50
+    },
+    {
+      "name": "InQuizitive: M1: INTRODUCTION",
+      "due_at": "2025-09-07T23:59:00-04:00",
+      "points_possible": 25
+    },
+    {
+      "name": "InQuizitive: M1: LESSON 1",
+      "due_at": "2025-09-14T23:59:00-04:00",
+      "points_possible": 25
+    },
+    {
+      "name": "InQuizitive: M1: LESSON 2",
+      "due_at": "2025-09-21T23:59:00-04:00",
+      "points_possible": 25
+    },
+    {
+      "name": "Interactive Assignment (IA-2): What Is Freedom? [Packback Discussion]",
+      "due_at": "2025-09-24T23:59:00-04:00",
+      "points_possible": 50
+    },
+    {
+      "name": "InQuizitive: M1: LESSON 3",
+      "due_at": "2025-09-28T23:59:00-04:00",
+      "points_possible": 25
+    },
+    {
+      "name": "InQuizitive: M2: LESSON 1",
+      "due_at": "2025-10-05T23:59:00-04:00",
+      "points_possible": 25
+    },
+    {
+      "name": "InQuizitive: M2: LESSON 2",
+      "due_at": "2025-10-12T23:59:00-04:00",
+      "points_possible": 25
+    },
+    {
+      "name": "M3: Lesson 1 - Creative Art Assignment",
+      "due_at": "2025-10-19T23:59:00-04:00",
+      "points_possible": 190
+    },
+    {
+      "name": "M3: Art Museum Journal Project [IN-PERSON]",
+      "due_at": "2025-11-02T23:59:00-04:00",
+      "points_possible": 200
+    },
+    {
+      "name": "M3: Art Museum Journal Project [VIRTUAL]",
+      "due_at": "2025-11-02T23:59:00-04:00",
+      "points_possible": 100
+    },
+    {
+      "name": "InQuizitive: M4: LESSON 1",
+      "due_at": "2025-11-09T23:59:00-04:00",
+      "points_possible": 25
+    },
+    {
+      "name": "Interactive Assignment (IA-3): What is the Good Life? [Packback Discussion]",
+      "due_at": "2025-11-12T23:59:00-04:00",
+      "points_possible": 50
+    },
+    {
+      "name": "InQuizitive: M4: LESSON 2",
+      "due_at": "2025-11-23T23:59:00-04:00",
+      "points_possible": 25
+    },
+    {
+      "name": "Interactive Assignment (IA-4) - Art of Activist, Politics, and Propaganda [PackbackDiscussion",
+      "due_at": "2025-12-03T23:59:00-05:00",
+      "points_possible": 50
+    },
+    {
+      "name": "Proctored Final Exam (Local)",
+      "due_at": "2025-12-04T23:59:00-05:00",
+      "points_possible": 200
+    },
+    {
+      "name": "Proctored Final Exam (Remote)",
+      "due_at": "2025-12-04T23:59:00-05:00",
+      "points_possible": 200
+    }
+  ]
+}

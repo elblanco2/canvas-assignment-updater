@@ -1,0 +1,94 @@
+{
+  "assignments": [
+    {
+      "id": "assignment_1",
+      "name": "Barcode Assignment",
+      "due_at": "2025-01-17T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_2",
+      "name": "Hue as Value study",
+      "due_at": "2025-01-17T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_3",
+      "name": "Color Wheel",
+      "due_at": "2025-02-06T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_4",
+      "name": "Objects into Achromatic Planes",
+      "due_at": "2025-02-13T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_5",
+      "name": "Albers Interaction Studies",
+      "due_at": "2025-02-18T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_6",
+      "name": "Four Color Spectrum",
+      "due_at": "2025-02-25T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_7",
+      "name": "Mixed Colors and Small Marks",
+      "due_at": "2025-03-18T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_8",
+      "name": "Bauhaus Maze",
+      "due_at": "2025-03-18T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_9",
+      "name": "Retinal Studies",
+      "due_at": "2025-03-25T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_10",
+      "name": "Movie Color Project",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_11",
+      "name": "Albers Color Mixing and Transparence",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_12",
+      "name": "Color Inventory Studies",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_13",
+      "name": "Design a Poster",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_14",
+      "name": "JSTOR Database Project",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_15",
+      "name": "Design Portfolio Project",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    }
+  ]
+}

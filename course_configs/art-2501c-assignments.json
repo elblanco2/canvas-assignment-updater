@@ -1,0 +1,28 @@
+{
+  "assignments": [
+    {
+      "id": "assignment_1",
+      "name": "To paint like Cezanne....",
+      "due_at": "2025-02-12T23:59:59Z",
+      "points_possible": 100
+    },
+    {
+      "id": "assignment_2",
+      "name": "Cubist Studies",
+      "due_at": "2025-03-13T23:59:59Z",
+      "points_possible": 100
+    },
+    {
+      "id": "assignment_3",
+      "name": "Fauvism Studies",
+      "due_at": "2025-04-10T23:59:59Z",
+      "points_possible": 100
+    },
+    {
+      "id": "assignment_4",
+      "name": "JSTOR Database Assignment",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 100
+    }
+  ]
+}

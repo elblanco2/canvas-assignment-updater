@@ -1,0 +1,52 @@
+{
+  "assignments": [
+    {
+      "id": "assignment_1",
+      "name": "Stencils with initials",
+      "due_at": "2025-01-30T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_2",
+      "name": "All over Anthropomorphic Animals",
+      "due_at": "2025-02-12T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_3",
+      "name": "Dig up a Cézanne Still Life",
+      "due_at": "2025-02-12T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_4",
+      "name": "Find 10 new artists on the Artstor Database (Jstor)",
+      "due_at": "2025-02-19T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_5",
+      "name": "Finding a Subject by Cropping",
+      "due_at": "2025-02-26T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_6",
+      "name": "Large still life frottage and color transfer",
+      "due_at": "2025-03-12T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_7",
+      "name": "Out of Focus Mixed Media Assignment",
+      "due_at": "2025-03-19T23:59:59Z",
+      "points_possible": 10
+    },
+    {
+      "id": "assignment_8",
+      "name": "Pop goes the Easel",
+      "due_at": "2025-04-23T23:59:59Z",
+      "points_possible": 10
+    }
+  ]
+}
